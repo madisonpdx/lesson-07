@@ -130,3 +130,26 @@ xmlhttp.send();
 
 Finally, instead of showing a popup with the data from the server, let's put that data onto the page. To figure that out
 look back at the section titled Modifying The HTML Page.
+
+Bonus Points
+------------
+
+By default the schedule web service returns the schedule for the current day. But you can pass a parameter to it
+and specify a different date and it will return the schedule for that day. This would allow us for example to provide
+a list of dates that the user could choose from and then we could show them the schedule for that day. Don't worry
+about that for now though, just try to get the web service to return a different date.
+
+The parameter is named 'date'.
+
+```
+// replacing the original web service address with this line will get the schedule for today
+// so it still has the same result, but now you have the ability to specify which date is used.
+'http://madisonpdx.com/schedule_details.html?date=' + (new Date()).toDateString()
+```
+
+If you make a JavaScript Date by calling 'new Date()' you will get today's date. But you can also call
+'new Date(year, month, day)' and specify a year, month, and day. Note that JavaScript months start at 0, so the month number for
+January is 0 and for December is 11. Also, only use dates in November or December as I didn't have time to input the
+rest of the school year.
+
+
