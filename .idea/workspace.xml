@@ -8,7 +8,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d752027a-00e0-47d2-82e8-7d049690c58e" time="1384881647244" ignored="false" />
     <file path="$PROJECT_DIR$/../../MadisonApp/public/css/main.css" changelist="d752027a-00e0-47d2-82e8-7d049690c58e" time="1384881837037" ignored="false" />
-    <file path="/README.md" changelist="d752027a-00e0-47d2-82e8-7d049690c58e" time="1384897762418" ignored="false" />
+    <file path="/README.md" changelist="d752027a-00e0-47d2-82e8-7d049690c58e" time="1384897862083" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,19 +28,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="schedule.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="schedule.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/schedule.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="14" selection-start="517" selection-end="517" vertical-scroll-proportion="0.16483517">
+            <state line="15" column="14" selection-start="517" selection-end="517" vertical-scroll-proportion="-9.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="158" column="119" selection-start="6508" selection-end="6508" vertical-scroll-proportion="0.0">
+            <state line="20" column="38" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.21802326">
               <folding />
             </state>
           </provider>
@@ -234,16 +234,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/schedule.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="158" column="119" selection-start="6508" selection-end="6508" vertical-scroll-proportion="0.0">
+        <state line="15" column="14" selection-start="517" selection-end="517" vertical-scroll-proportion="-9.375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/schedule.html">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="14" selection-start="517" selection-end="517" vertical-scroll-proportion="0.16483517">
+        <state line="20" column="38" selection-start="1345" selection-end="1345" vertical-scroll-proportion="0.21802326">
           <folding />
         </state>
       </provider>

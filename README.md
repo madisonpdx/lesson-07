@@ -17,7 +17,8 @@ The Challenge
 Modify the schedule.html page so that it will show information about today's schedule.
 
 - Write a JavaScript function that is run when the page is loaded.
-- In your function, request today's schedule data from the web service with the address http://madisonpdx.com/schedule.html.
+- In your function, request today's schedule data from the web service with the address
+http://madisonpdx.com/schedule_details.html.
 - Take the data that is returned from the web service and display it on the page.
 
 Comments
