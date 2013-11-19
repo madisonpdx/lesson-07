@@ -3,13 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d752027a-00e0-47d2-82e8-7d049690c58e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/schedule.html" afterPath="$PROJECT_DIR$/schedule.html" />
     </list>
     <ignored path="lesson-07.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="d752027a-00e0-47d2-82e8-7d049690c58e" time="1384881647244" ignored="false" />
     <file path="$PROJECT_DIR$/../../MadisonApp/public/css/main.css" changelist="d752027a-00e0-47d2-82e8-7d049690c58e" time="1384881837037" ignored="false" />
-    <file path="/README.md" changelist="d752027a-00e0-47d2-82e8-7d049690c58e" time="1384897023765" ignored="false" />
+    <file path="/README.md" changelist="d752027a-00e0-47d2-82e8-7d049690c58e" time="1384897762418" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="130" column="38" selection-start="5103" selection-end="5103" vertical-scroll-proportion="0.0">
+            <state line="158" column="119" selection-start="6508" selection-end="6508" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,8 +64,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/schedule.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -237,7 +236,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="130" column="38" selection-start="5103" selection-end="5103" vertical-scroll-proportion="0.0">
+        <state line="158" column="119" selection-start="6508" selection-end="6508" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
