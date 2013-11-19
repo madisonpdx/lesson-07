@@ -157,6 +157,6 @@ decide. You can supply a year, month, and day when creating a date. For example:
 var myDate = new Date(2013, 10, 1);
 ```
 
-I've only coded the web service to respond with dates in November and December so far, so stay within those two months.
+The web service can only handle dates in this school year. You will get an error if you try to request other dates.
 
 
