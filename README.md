@@ -92,6 +92,7 @@ tag by setting the innerHTML property of the tag.
 ```
 // get a reference to the tag with id schedule_details and change what's inside that tag.
 document.getElementById('schedule_details').innerHTML = 'This message is inside the DIV tag.';
+```
 
 XMLHttpRequest
 --------------
